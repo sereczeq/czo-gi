@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e97490e6e568ea4eaf6b39e7b603b66, type: 3}
+  m_Name: statystyki1
+  m_EditorClassIdentifier: 
+  statystyka: {fileID: 11400000, guid: 8ded377d8315afb4c86ba7be05199f7f, type: 2}
+  "pr\u0119dko\u015B\u0107Max": 200
+  "czasRozp\u0119dzania": 0.5
+  "pr\u0119dko\u015B\u0107MaxTy\u0142": -150
+  "czasRozp\u0119dzaniaTy\u0142": 0.5
+  czasHamowania: 0.2
+  "pr\u0119dko\u015B\u0107Obrotu": 4
+  "szybkostrzelno\u015B\u0107": 10
+  "ilo\u015B\u0107Pocisk\xF3w": 5
+  armor: 0
+  HP: 5
+  "pr\u0119dko\u015B\u0107Pocisku": 300
+  "ilo\u015B\u0107Odbi\u0107": 3
+  rozmiarPocisku: 2
+  "czasPrze\u0142adowania": 3
+  czyj: {fileID: 0}
+  ustawiona: 1

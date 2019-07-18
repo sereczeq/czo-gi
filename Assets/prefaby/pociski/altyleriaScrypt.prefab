@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1299790333690306}
+  m_IsPrefabAsset: 1
+--- !u!1 &1299790333690306
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4418059533264764}
+  - component: {fileID: 114150450910906148}
+  m_Layer: 0
+  m_Name: altyleriaScrypt
+  m_TagString: altyleria
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4418059533264764
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1299790333690306}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 10.410287, y: 11.750201, z: 10.662109}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114150450910906148
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1299790333690306}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ab00783834c9f2498baa8b75759b6aa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pocisk: {fileID: 1621208835376542, guid: 6c40b793a2eb6ee468c428941b2cff2a, type: 2}
+  czyj: {fileID: 0}
+  "zamie\u0144": {fileID: 0}
+  "pr\u0119dko\u015B\u0107Obrotu": 6
+  zapisana: 0
+  "szybkostrzelno\u015B\u0107": 1
+  "ilePocisk\xF3w": 5
+  "odleg\u0142o\u015B\u0107": 5
+  "mno\u017CnikOdleg\u0142o\u015Bci": 10

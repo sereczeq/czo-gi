@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - pocisk
+  - Manager
+  - "\u015Bciana"
+  - "czo\u0142g"
+  - item
+  - shotgun
+  - Undefined
+  - altyleria
+  - "\u0141uski"
+  - "\u0142uska"
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - "czo\u0142g"
+  - 
+  - pocisk
+  - 
+  - "\u015Bciana"
+  - 
+  - 
+  - 
+  - 
+  - "pod\u0142oga"
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: "pod\u0142oga"
+    uniqueID: 658844083
+    locked: 0
+  - name: "czo\u0142g"
+    uniqueID: 2533420337
+    locked: 0

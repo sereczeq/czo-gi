@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1547685579717458
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4474267837223960}
+  - component: {fileID: 114586831610563976}
+  m_Layer: 0
+  m_Name: shotgun
+  m_TagString: shotgun
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4474267837223960
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1547685579717458}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 10.827749, y: 10.4518, z: 0.2441145}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114586831610563976
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1547685579717458}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a9f483dfc154d54585e7915b23c7701, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pocisk: {fileID: 1136087599832686, guid: 169b4c237edb9a842919324fadbe8dab, type: 3}
+  czyj: {fileID: 0}
+  "\u0142uska": {fileID: 180342191298348967, guid: fd853352ca5779d43bdbf75b39c29112,
+    type: 3}
+  "\u015Bruty":
+  - {fileID: -860044489189022242, guid: 3b74ccae034383f409a30daa2bef8476, type: 3}
+  - {fileID: 7184098539912887986, guid: 3b74ccae034383f409a30daa2bef8476, type: 3}
+  - {fileID: -7452716809245362208, guid: 3b74ccae034383f409a30daa2bef8476, type: 3}
+  - {fileID: -6531618398419955310, guid: 3b74ccae034383f409a30daa2bef8476, type: 3}
+  - {fileID: 4389045580312074029, guid: 3b74ccae034383f409a30daa2bef8476, type: 3}
+  - {fileID: -8866720617141803363, guid: 3b74ccae034383f409a30daa2bef8476, type: 3}
+  - {fileID: -8236388747133678154, guid: 3b74ccae034383f409a30daa2bef8476, type: 3}
+  - {fileID: -8041281250967828401, guid: 3b74ccae034383f409a30daa2bef8476, type: 3}
+  - {fileID: -3549141687280033414, guid: 3b74ccae034383f409a30daa2bef8476, type: 3}
+  - {fileID: 158170820976107099, guid: 3b74ccae034383f409a30daa2bef8476, type: 3}
+  spread: -10
+  los: 2.5
